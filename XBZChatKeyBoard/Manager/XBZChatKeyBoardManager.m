@@ -50,7 +50,7 @@ static dispatch_once_t onceToken;
     XBZChatMoreItem *item1 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_freeaudio" highlightedImage:nil title:@"电话" font:15];
     XBZChatMoreItem *item2 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_video" highlightedImage:nil title:@"视频" font:15];
     XBZChatMoreItem *item3 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_pacamera" highlightedImage:nil title:@"相机" font:15];
-    XBZChatMoreItem *item4 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_activity" highlightedImage:nil title:@"图片" font:15];
+    XBZChatMoreItem *item4 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_pacamera" highlightedImage:nil title:@"图片" font:15];
     XBZChatMoreItem *item5 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_folder" highlightedImage:nil title:@"文件" font:15];
     XBZChatMoreItem *item6 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_red_pack" highlightedImage:nil title:@"红包" font:15];
     XBZChatMoreItem *item7 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_music" highlightedImage:nil title:@"音乐" font:15];
