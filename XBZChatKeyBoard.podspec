@@ -11,5 +11,4 @@ Pod::Spec.new do |s|
         s.author       = { "BigKing" => "641648019@qq.com" }
         s.source       = { :git => "https://github.com/BigKingQY/XBZChatKeyBoard.git", :tag => "#{s.version}" }
         s.source_files  = "XBZChatKeyBoard/**/*"
-        s.resources = "Resource/*.png"
 end
