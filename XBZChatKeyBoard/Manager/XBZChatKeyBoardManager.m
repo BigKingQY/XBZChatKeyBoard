@@ -55,7 +55,7 @@ static dispatch_once_t onceToken;
     XBZChatMoreItem *item6 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_red_pack" highlightedImage:nil title:@"红包" font:15];
     XBZChatMoreItem *item7 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_music" highlightedImage:nil title:@"音乐" font:15];
     XBZChatMoreItem *item8 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_location" highlightedImage:nil title:@"定位" font:15];
-    XBZChatMoreItem *item9 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_activity" highlightedImage:nil title:@"游戏" font:15];
+    XBZChatMoreItem *item9 = [XBZChatMoreItem initWithNormalImage:@"aio_icons_location" highlightedImage:nil title:@"游戏" font:15];
     
     [self configMoreItems:@[item1, item2, item3, item4, item5, item6, item7, item8, item9]];
 }
